@@ -1,0 +1,12 @@
+.menubar {
+    width: 356px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.class-name {
+    
+}
